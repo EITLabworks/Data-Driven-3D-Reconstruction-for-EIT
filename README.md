@@ -1,4 +1,4 @@
-# DD3D-EIT
+# Data-Driven 3D Reconstruction for Electrical Impedance Tomography
 
 TwoThree networks are trained: a VAE $\mathbb{VAE}$, a mapper $\Xi$, and a material classifier $\Upsilon$.
 
